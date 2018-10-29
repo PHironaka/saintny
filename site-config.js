@@ -6,7 +6,7 @@ module.exports = {
   siteDescription: `Launching Early 2019`,
   siteUrl: `https://saintnewyork.com`,
   themeColor: `#000`,
-  backgroundColor: `#fff`,
+  backgroundColor: `#000`,
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
