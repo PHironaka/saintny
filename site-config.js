@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteTitle: `Saint New York`,
-  siteTitleShort: `SaintNY`,
+  siteTitleShort: `SNY`,
   siteDescription: `Launching Early 2019`,
   siteUrl: `https://saintnewyork.com`,
   themeColor: `#000`,
