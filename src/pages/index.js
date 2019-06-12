@@ -1,43 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Layout from 'components/layout';
-import Box from 'components/box';
-import Footer from 'components/footer';
 import { graphql } from 'gatsby';
 
 const Index = () => (
   <Layout>
-    <Box>
- <svg viewBox="0 0 818 78" xmlns="http://www.w3.org/2000/svg" >
-  <defs>
-    <path id="path-1" d="M.8 93h832V1H.8z"/>
-  </defs>
-  <g id="Page-1" fill="none" fillRule="evenodd">
-    <g id="sny_holder_102618" transform="translate(-231 -369)">
-      <g id="Group-18" transform="translate(223 361)">
-        <path d="M716.37 25.18h11.7c7.21 0 8.94 3.2 8.94 6.8 0 3.2-1.73 6.87-8.6 6.87h-12.04V25.18zm-.11 60.29V55.03h5.23l15.06 30.44h22.15l-17.94-32.5c9.94-2.96 14.35-13.52 14.35-21.62 0-12.81-9.23-22.96-25.42-22.96h-32.6v77.08h19.17z" id="Fill-14" fill="#FFFFFE"/>
-        <mask id="mask-2" fill="#fff">
-          <use xlinkHref="#path-1"/>
-        </mask>
-        <path d="M652.2 68.38h18.42V25.53H652.2v42.85zm37.71-60.01v77.11l-57-.07V8.33l57 .04z" id="Fill-16" fill="#FFFFFE" mask="url(#mask-2)"/>
-        <path id="Fill-4" fill="#FFFFFE" mask="url(#mask-2)" d="M46.72 68.41V55.36H8.87V8.44H66.1v17.05H28.24v13H66.1v46.98H8.87V68.4z"/>
-        <path id="Fill-5" fill="#FFFFFE" mask="url(#mask-2)" d="M229.02 8.4v77.07h-19.37v-60h-18.5v60h-19.38V8.4z"/>
-        <path d="M105.06 28.13l-6.6 29.83h13.1l-6.5-29.83zm9.69 45.34H94.94l-2.75 12h-19.6L92.41 8.43h27.18l19.26 77.04H117.5l-2.75-12z" id="Fill-6" fill="#FFFFFE" mask="url(#mask-2)"/>
-        <path id="Fill-7" fill="#FFFFFE" mask="url(#mask-2)" d="M145.17 85.47h19.37V8.39h-19.37z"/>
-        <path id="Fill-8" fill="#FFFFFE" mask="url(#mask-2)" d="M236.27 8.43h58.67v17.06h-19.7v59.98h-19.38V25.49h-19.6z"/>
-        <path id="Fill-9" fill="#FFFFFE" mask="url(#mask-2)" d="M392.3 85.47V8.38h54.94v17.07h-35.57v13h29.4v16.52h-29.4V68.4h35.57v17.07z"/>
-        <path id="Fill-10" fill="#FFFFFE" mask="url(#mask-2)" d="M531.53 85.47h-77.09V8.37h17.07v59.69h13V8.4h16.51v59.66h13.44V8.36h17.07z"/>
-        <path id="Fill-11" fill="#FFFFFE" mask="url(#mask-2)" d="M385.11 8.4v77.07h-19.38v-60h-18.5v60h-19.37V8.4z"/>
-        <path id="Fill-12" fill="#FFFFFE" mask="url(#mask-2)" d="M569.97 58.56h36.72l-.07 9.74-36.73.02v17.15h55.82l-.1-77.05h-19l.04 33.5H588.9V8.37h-18.9z"/>
-        <path id="Fill-13" fill="#FFFFFE" mask="url(#mask-2)" d="M802.55 45.87l23.24 39.6h-22.26l-19.77-34.76v34.76h-19.11v-77h19.11V44l21.5-35.54h20.53z"/>
-      </g>
-    </g>
-  </g>
-</svg>
-
-    </Box>
-<Footer />
-
   </Layout>
 );
 

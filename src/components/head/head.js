@@ -53,7 +53,7 @@ const Head = ({
     <meta content={canonical} property="og:url" />
     <meta content={canonical} name="twitter:url" />
     <link rel="canonical" href={canonical} />
-
+    <link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet" />  
     <meta content={imageUrl || `${siteUrl}/social.png`} property="og:image" />
     <meta content="1024" property="og:image:width" />
     <meta content="512" property="og:image:height" />
@@ -63,7 +63,7 @@ const Head = ({
     <meta content={imageUrl || `${siteUrl}/social.png`} property="og:image" />
     <meta content="1024" property="og:image:width" />
     <meta content="512" property="og:image:height" />
-
+    <script type="text/javascript" src="/js/popup.js"></script> 
     <meta content={themeColor} name="msapplication-TileColor" />
     <meta content="/icons/mstile-70x70.png" name="msapplication-square70x70" />
     <meta
