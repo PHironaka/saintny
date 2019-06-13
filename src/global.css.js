@@ -31,7 +31,7 @@ export default createGlobalStyle`
 
   html {
     font-size: 62.5%;
-      background: url(./DEO_HERO_SNY_01_ext.jpg) no-repeat center center fixed; 
+      background: url(./sn-bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
